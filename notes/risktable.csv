@@ -1,0 +1,15 @@
+orig_p,resp_p,resp_bytes,threat,vulnerability,impact,risk,Recommendation
+68,67,26,2,1,1,2,Monitor further
+133,80,66,3,1,1,3,Monitor further
+68,3544,26,3,1,2,6,Monitor further
+49164,53,61,2,2,3,12,Investigate further
+49160,80,58,3,3,3,27,Raise an alarm
+133,53,28,3,2,1,6,Monitor further
+133,67,24,3,3,3,27,Raise an alarm
+133,80,16,2,1,2,4,Monitor further
+68,445,26,2,2,3,12,Investigate further
+68,80,24,2,2,1,4,Monitor further
+133,445,28,2,2,2,8,Monitor further
+134,443,24,3,3,3,27,Raise an alarm
+134,443,24,3,3,3,27,Raise an alarm
+68,67,24,2,3,3,18,Investigate further
